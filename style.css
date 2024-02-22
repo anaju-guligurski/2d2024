@@ -2,3 +2,6 @@
 --cor-fundo:#640251; 
 --cor-fontes:#FFD1F5;
 }
+.cabecalho{
+    background-color: var(--cor-fundo);
+}
