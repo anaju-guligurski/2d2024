@@ -5,6 +5,8 @@
 .cabecalho{
     background-color: var(--cor-fundo);
     color: var(--cor-fontes);
+    display: flex;
+    
 }
 .imagem-cabecalho{
     width: 10%;
