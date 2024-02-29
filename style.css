@@ -7,8 +7,13 @@
     color: var(--cor-fontes);
     display: flex;
     justify-content: space-around;
+    
 
 }
 .imagem-cabecalho{
     width: 10%;
+}
+.item-lista-cabecalho{
+    display: inline-block;
+    margin: 0 16px;
 }
